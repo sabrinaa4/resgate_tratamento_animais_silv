@@ -1,1 +1,3 @@
-# resgate_tratamento_animais_silv
+# Resgate e tratamento de animais silvestres
+
+Sabrina Cabral Santos - 3° Período
